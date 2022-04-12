@@ -1,3 +1,3 @@
-module golang.org/x/sys
+module github.com/HACKERALERT/sys
 
 go 1.17
